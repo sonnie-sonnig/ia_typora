@@ -1,3 +1,7 @@
+# IA Typora
+
+Theme for typora markdown text editor.
+
 ## General
 
 IA Typora is a try to recreate the UI of the iconic IA Writer theme with the original font.
