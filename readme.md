@@ -26,4 +26,4 @@ Night theme needs to be installed.
 Copy/Move the delivered fonts into your local font directory. IA Writer Mono Font is based on IBM Plex Typeface. Check `license.md` for more infos. 
 
 ## Screenshot
-![iatypora](iatypora.jpeg)
+![iatypora](https://github.com/sonnie-sonnig/ia_typora/iatypora.jpeg)
