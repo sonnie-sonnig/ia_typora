@@ -2,6 +2,8 @@
 
 Theme for typora markdown text editor.
 
+Only works with Linux. Not tested with Win/macOS.
+
 ## General
 
 IA Typora is a try to recreate the UI of the iconic IA Writer theme with the original font.
