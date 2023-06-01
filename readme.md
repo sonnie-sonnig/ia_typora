@@ -6,6 +6,7 @@ Only works with Linux. Not tested with Win/macOS.
 
 WORKAROUND FOR MAC:
 >  Change the underscores to dashes and it should resolve the issue.
+
 Shoutout to @herabit. TY!
 
 ## General
