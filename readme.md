@@ -4,6 +4,10 @@ Theme for typora markdown text editor.
 
 Only works with Linux. Not tested with Win/macOS.
 
+WORKAROUND FOR MAC:
+>  Change the underscores to dashes and it should resolve the issue.
+Shoutout to @herabit. TY!
+
 ## General
 
 IA Typora is a try to recreate the UI of the iconic IA Writer theme with the original font.
