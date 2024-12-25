@@ -34,3 +34,7 @@ Copy/Move the delivered fonts into your local font directory. IA Writer Mono Fon
 
 ## Screenshot
 ![iatypora](iatypora.jpeg)
+
+## Acknowledgements
+Thanks to IBM for Plex Mono typeface
+Thanks to iA Writer for design inspiration
