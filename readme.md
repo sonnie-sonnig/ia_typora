@@ -2,12 +2,11 @@
 
 Theme for typora markdown text editor.
 
-Only works with Linux. Not tested with Win/macOS.
+Only works with Linux.
 
-WORKAROUND FOR MAC:
->  Change the underscores to dashes and it should resolve the issue.
+Should work with Win and macOS as well.
 
-Shoutout to @herabit. TY!
+TY @herabit and @ssssamstrup
 
 ## General
 
